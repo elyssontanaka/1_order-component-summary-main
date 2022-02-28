@@ -22,7 +22,7 @@
 
 
 body {
-  background-image: url("./images/pattern-background-desktop.svg");
+  background-image: url("../images/pattern-background-desktop.svg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position-x: 50%;
@@ -47,7 +47,7 @@ body {
 }
 
 .illustration {
-  background-image: url("./images/illustration-hero.svg");
+  background-image: url("../images/illustration-hero.svg");
   background-repeat: no-repeat;
   background-size: 100%;
   max-width: 100%;
